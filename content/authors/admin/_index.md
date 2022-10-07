@@ -55,11 +55,4 @@ social:
     link: uploads/resume.pdf
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
-
-# Generate the /admin/ page
-type: wowchemycms
-private: true
-outputs:
-  - wowchemycms_config
-  - HTML
 ---
