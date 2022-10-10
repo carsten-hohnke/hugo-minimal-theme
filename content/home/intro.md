@@ -1,5 +1,4 @@
 ---
----
 # Use the Intro widget of the Blog template
 widget: about.avatar
 
@@ -28,10 +27,6 @@ design:
     image_parallax: true
     text_color_light: true
   css_class: d-flex fullscreen align-items-center
----
-
-Hi, there! I spend a lot of my time using advanced analytics to drive business insights and shape strategy.
-{style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 ---
 
 Hi, there! I enjoy using advanced analytics to drive business insights and shape strategy.
