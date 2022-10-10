@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo minimal theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Carsten D Hohnke's personal advanced analytics and business strategy page.'
+    twitter: 'carstenhohnke'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -41,6 +41,7 @@ header:
 
 footer:
   copyright:
+    enable: false
     notice: '© {year} Me. This work is licensed under {license}'
     license:
       enable: false
