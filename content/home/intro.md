@@ -28,5 +28,4 @@ design:
   css_class: d-flex fullscreen align-items-center
 ---
 
-Hi, there! I enjoy using advanced analytics to drive business insights and shape strategy.
-{padding="0 0 0 1000"}
+
