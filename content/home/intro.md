@@ -1,5 +1,4 @@
 ---
-# Use the Intro widget of the Blog template
 widget: blank
 
 # This file represents a page section.
